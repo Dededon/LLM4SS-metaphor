@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# Claude
+.claude/
+
+# Large data files (stored externally)
+data/filtered_articles_1920_1940.parquet
+*.parquet

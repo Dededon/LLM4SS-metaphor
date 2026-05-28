@@ -1,0 +1,31 @@
+{
+  "total_rows_scanned": 58693403,
+  "rows_kept": 3615699,
+  "rows_dropped_date": 0,
+  "rows_dropped_no_keyword": 55077704,
+  "per_keyword_hits": {
+    "federal": 1051742,
+    "administration": 638906,
+    "government": 2430473,
+    "new deal": 55288,
+    "the feds": 4365
+  },
+  "observed_date_range": {
+    "min": "1900-01-01",
+    "max": "1960-12-31"
+  },
+  "match_mode": "stem/left-boundary (case-insensitive); body+headline",
+  "keyword_patterns": {
+    "federal": "\\bfederal",
+    "administration": "\\badministration",
+    "government": "\\bgovernment",
+    "new deal": "\\bnew\\s+deal",
+    "the feds": "\\bthe\\s+feds"
+  },
+  "scan_year_range": [
+    1900,
+    1960
+  ],
+  "elapsed_seconds": 1529.5,
+  "output_parquet": "/kellogg/proj/dashun/ruipan/fame/metaphor/data/filtered_articles.parquet"
+}
