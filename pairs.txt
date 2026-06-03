@@ -1,0 +1,8 @@
+positive - negative
+strong power - weak power
+professional - unskilled
+offender - defender
+trustworthy - liar
+constructive - destructive
+distant - close
+humanlike - not humanlike
