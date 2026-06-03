@@ -16,3 +16,4 @@ venv/
 # Large data files (stored externally)
 data/filtered_articles_1920_1940.parquet
 *.parquet
+openai_key.txt

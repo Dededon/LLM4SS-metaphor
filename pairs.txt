@@ -6,3 +6,6 @@ trustworthy - liar
 constructive - destructive
 distant - close
 humanlike - not humanlike
+transparent - opaque
+redistributive - accumulative
+interventionist - laissez faire
