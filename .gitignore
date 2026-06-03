@@ -17,3 +17,4 @@ venv/
 data/filtered_articles_1920_1940.parquet
 *.parquet
 openai_key.txt
+deepinfra_key.txt
